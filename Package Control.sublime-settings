@@ -1,0 +1,25 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"Cucumber",
+		"Elixir",
+		"Emacs-like Modelines",
+		"Git",
+		"GitHubinator",
+		"Indent XML",
+		"INI",
+		"LESS",
+		"Markdown Todo",
+		"nginx",
+		"Package Control",
+		"PlainTasks",
+		"RSpec (snippets and syntax)",
+		"SCSS",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeTextGitX"
+	]
+}

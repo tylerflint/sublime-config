@@ -1,0 +1,22 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"create_window_at_startup": false,
+	"font_face": "monaco",
+	"font_options":
+	[
+	],
+	"font_size": 11.0,
+	"ignored_packages":
+	[
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"preview_on_click": true,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintage_start_in_command_mode": false
+}
